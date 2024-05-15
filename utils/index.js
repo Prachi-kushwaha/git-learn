@@ -7,3 +7,6 @@ function newfeat(){
     console.log("new feature added")
     console.log("new feature added2")
 }
+function anotherfeat(){
+  console.log("another feature added2")
+}
